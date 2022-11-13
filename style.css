@@ -1,0 +1,195 @@
+.main-section{
+    width: 360px;
+    height: 1282px;
+    margin-left: 600px;
+    /* border: 1px solid black; */
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+}
+.top-section{
+    top: 0px;
+        left: 0px;
+        width: 360px;
+        height: 60px;
+        font-size: 40px;
+        font-weight: bold;
+        /* border: 2px solid red; */
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 3px 30px #7B7B7B29;
+}
+#task {
+    color: rgb(87, 156, 230);
+   
+}
+.fa-solid {
+    font-size: 40px;
+    position: relative;
+    top: 20px;
+    left: 150px;
+    background-color: #F7F7F7;
+    text-decoration: none;
+}
+
+.fa-circle-plus {
+    color: #00a5ec;
+    background: #ededed;
+    cursor: pointer;
+}
+.cards{
+   
+    width: 336px;
+    height: 360px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+        border: 1px solid #EDEDED;
+        border-radius: 10px;
+       
+}
+
+.card1{
+top: 290px;
+    left: 18px;
+    margin: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.card2 {
+    top: 290px;
+    left: 18px;
+    margin: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.card3 {
+    top: 290px;
+    left: 18px;
+    margin: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.textBox1 {
+    font-size: 20px;
+    color: #00a5ec;
+    margin-top: 30px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.fa-square-check {
+    background-color: white;
+    color: #c2c2c2;
+    font-size: 30px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+.textCheck1 {
+    position: relative;
+    bottom: 15px;
+    left: 55px;
+    color: #c2c2c2;
+    text-decoration: line-through;
+}
+
+#text1 {
+    color: #424242;
+    position: relative;
+    top: 5px;
+    left: 30px;
+}
+
+.fa-square {
+    border: #ededed;
+    background-color: white;
+    color: #c2c2c2;
+    font-size: 30px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+/* from here i have started css part for html2 file */
+.page2 {
+    width: 360px;
+    height: 1282px;
+    left: 600px;
+    margin-left: 600px;
+    background: rgba(17, 17, 17, 0.622);
+    position: absolute;
+    
+    top: 0;
+    left: 0;
+
+}
+.pop-up{
+   margin-top: 250px;
+   margin-left: 10px;
+        width: 340px;
+        height: 250px;
+        border: 1px solid black;
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+            box-shadow: 0px 0px 20px #67676729;
+            border: 1px solid #EDEDED;
+            border-radius: 10px;
+}
+.contentForPage2 {
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 270px;
+    left: 30px;
+    font: normal normal medium 18px/21px Inter;
+        letter-spacing: 0px;
+        color: #404040;
+}
+.inputbox {
+    width: 280px;
+    height: 30px;
+    background: #f7f7f7;
+    border-radius: 6px;
+    position: relative;
+    top: 10px;
+    left: 30px;
+    border: 1px solid #ededed;
+    cursor: pointer;
+}
+
+.text2 {
+    color: #858585;
+    position: absolute;
+    top: 4px;
+    left: 5px;
+}
+
+.addtaskPlus {
+    width: 100px;
+    height: 30px;
+    background-color: #00a5ec;
+    border: 1px solid #00a5ec;
+    color: white;
+    font: 10px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border-radius: 4px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.fa-xmark {
+    font-size: 30px;
+    position: relative;
+    top: 20px;
+    left: 290px;
+    color: black;
+}
+.fa-arrow-left {
+    position: relative;
+   margin-left: -230px;
+   margin-top: 0;
+    font-size: 20px;
+    cursor: pointer;
+}
+.backtohome {
+    font-size: 22px;
+    position: relative;
+    top: 20px;
+    left: 0;
+    cursor: pointer;
+    text-decoration: none;
+}
